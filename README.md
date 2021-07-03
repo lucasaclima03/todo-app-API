@@ -52,5 +52,5 @@ Use MVC pattern and object orientation.
 
 ## Author
 
-- Linkedin [Lucas Almeoda](https://www.linkedin.com/in/lucasaclima03/)
+- Linkedin [Lucas Almeida](https://www.linkedin.com/in/lucasaclima03/)
 
