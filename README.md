@@ -15,6 +15,7 @@ Also this is also a part of my project whith my cousin in GitHub. I build the ba
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
+- [How to use the API](#how-to-use-the-API)
 - [Author](#author)
 
 
@@ -49,6 +50,31 @@ As my first group project, i've learned how to code with a teammate in the same 
 
 Use MVC pattern and object orientation.
 
+## How to use the API
+
+Route To ADD Note:
+
+[POST] /todo-app-api/api/insert.php
+
+{
+    'title': 'my first note'
+}
+
+Route To Get All Notes:
+
+[GET] /todo-app-api/getAll.php
+
+Route To Get One Note by Id
+
+[GET] /todo-app-api/get.php
+
+Route To Update Note:
+
+[PUT] /todo-app-api/update.php
+
+Route To Delete Note:
+
+[DELETE] /todo-app-api/delete.php
 
 ## Author
 
