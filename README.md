@@ -52,29 +52,29 @@ Use MVC pattern and object orientation.
 
 ## How to use the API
 
-Route To ADD Note:
+- Route To ADD Note:
 
 [POST] /todo-app-api/api/insert.php
 
-{
-    'title': 'my first note'
-}
+{  
+    'title': 'my first note'  
+}    
 
-Route To Get All Notes:
+- Route To Get All Notes:
 
-[GET] /todo-app-api/getAll.php
+[GET] /todo-app-api/getAll.php    
 
-Route To Get One Note by Id
+- Route To Get One Note by Id
 
-[GET] /todo-app-api/get.php
+[GET] /todo-app-api/get.php    
 
-Route To Update Note:
+- Route To Update Note:
 
-[PUT] /todo-app-api/update.php
+[PUT] /todo-app-api/update.php    
 
-Route To Delete Note:
+- Route To Delete Note:
 
-[DELETE] /todo-app-api/delete.php
+[DELETE] /todo-app-api/delete.php    
 
 ## Author
 
