@@ -66,7 +66,7 @@ Use MVC pattern and object orientation.
 
 - Route To Get One Note by Id
 
-[GET] /todo-app-api/get.php    
+[GET] /todo-app-api/get.php?id="INSERT HERE THE ID"    
 
 - Route To Update Note:
 
@@ -74,7 +74,7 @@ Use MVC pattern and object orientation.
 
 - Route To Delete Note:
 
-[DELETE] /todo-app-api/delete.php    
+[DELETE] /todo-app-api/delete.php?id="INSERT HERE THE ID"    
 
 ## Author
 
