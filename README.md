@@ -52,6 +52,8 @@ Use MVC pattern and object orientation.
 
 ## How to use the API
 
+- First of all. add the database "tasks.sql" and configure with your data the arquive "Config.example.php"
+
 - Route To ADD Note:
 
 [POST] /todo-app-api/api/insert.php
