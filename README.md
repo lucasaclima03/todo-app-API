@@ -64,19 +64,19 @@ Use MVC pattern and object orientation.
 
 - Route To Get All Notes:
 
-[GET] /todo-app-api/getAll.php    
+[GET] /todo-app-api/api/getAll.php    
 
 - Route To Get One Note by Id
 
-[GET] /todo-app-api/get.php?id="INSERT HERE THE ID"    
+[GET] /todo-app-api/api/get.php?id="INSERT HERE THE ID"    
 
 - Route To Update Note:
 
-[PUT] /todo-app-api/update.php    
+[PUT] /todo-app-api/api/update.php    
 
 - Route To Delete Note:
 
-[DELETE] /todo-app-api/delete.php?id="INSERT HERE THE ID"    
+[DELETE] /todo-app-api/api/delete.php?id="INSERT HERE THE ID"    
 
 ## Author
 
